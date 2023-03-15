@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century gothic;
+}
+.container{
+	position: relative;
+	left: 500px;
+	border:auto;
+}
+.form-group{
+	position: relative;
+	width: 50%;
+	height: 100px;
+	border: 10 px solid red;
+	color: #808080;
+}
+
+.form-control{
+	position: relative;
+	width: 200px;
+}
+.button{
+	position: relative;
+	width: 250px;
+	color: #000;
+	background-color: #808080;
+	text-align: center;
+}
+.icop{
+	position: relative;
+    top: 10px;
+}
+.group{
+	
+	color: #00FFFF;
+}
+.ppppp{
+	color: #00FFFF;
+}
+.text{
+	position: relative;
+	background-color: 
+}
+.wrapper img{
+	display: flex;
+	left: 400px;
+
+}
+.self{
+	position: relative;
+	left: 500px;
+	text-align:center;
+	width:30px;
+	color:#00FFFf;
+
+	}
+	.logo{
+		display: flex;
+		left: 150px;
+	}
+	#tyy{
+		padding-left: 200px;
+	}
